@@ -8,15 +8,15 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Charles Henrique de Paula Santos
+- Matricula: 901364
+- Proposta de projeto escolhida: 2. Lugares e Experiências
+- Breve descrição sobre seu projeto: Um site sobre astronomia com artigos e conhecimento sobre o universo.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Imagem do wireframe](public/img/wireframe.PNG)
 
 
 ## Print da home-page criada
