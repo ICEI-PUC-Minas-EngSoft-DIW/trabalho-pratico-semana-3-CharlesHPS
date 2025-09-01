@@ -38,7 +38,7 @@
 }
 #texto-apresentacao{
     order: 1;
-    margin: 80px 100px 80px 150px;
+    margin: 80px 100px 80px 100px;
     
 }
 
@@ -46,6 +46,10 @@
     order: 2;
     margin: 80px 100px 80px 150px;
     
+}
+
+#rodape{
+    margin-left: 100px;
 }
 
 
