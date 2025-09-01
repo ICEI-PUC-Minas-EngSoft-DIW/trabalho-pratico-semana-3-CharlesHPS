@@ -1,0 +1,11 @@
+.itens-assuntos{
+
+    display: inline-flex;
+}
+
+#menu{
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #613a2e;
+}
