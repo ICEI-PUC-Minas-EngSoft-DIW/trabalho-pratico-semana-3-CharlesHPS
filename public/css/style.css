@@ -1,11 +1,27 @@
 .itens-assuntos{
-
+    
     display: inline-flex;
 }
 
+.paginas{
+    padding: 20px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
 #menu{
-    text-align: center;
     padding: 10px;
     border-radius: 10px;
-    background-color: #613a2e;
+    background-color: black;
 }
+
+#nome-site{
+    text-align: left;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+#itens-menu{
+    text-align: right;
+}
+
